@@ -110,17 +110,6 @@ This is my personal deep learning learning space where I study core concepts, bu
 
 ---
 
-## 🎓 What I'm Learning
-
-- 🧮 **Core Theory** - Mathematical foundations behind neural networks
-- 🏗️ **Model Architecture** - Designing and building effective neural networks
-- 📊 **Training Techniques** - Optimization, regularization, and best practices
-- 👁️ **Computer Vision** - Image classification, detection, and segmentation
-- 📈 **Sequence Learning** - Time series and NLP fundamentals
-- 🚀 **Deployment** - Moving from notebooks to production applications
-
----
-
 ## 🛠️ Tech Stack
 
 | Category | Tools |
