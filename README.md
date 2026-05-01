@@ -17,14 +17,6 @@ From neural networks fundamentals to cutting-edge architectures
 
 This is my personal deep learning learning space where I study core concepts, build intuition, and implement practical examples step by step. The repository serves as both a learning reference and a portfolio of deep learning experiments.
 
-**What you'll find here:**
-- 🔬 Theoretical foundations with practical examples
-- 💻 Implementation tutorials using Keras & PyTorch
-- 📊 Real-world datasets and experiments
-- 🎯 End-to-end projects and deployments
-
-## 📖 Syllabus & Learning Path
-
 ### 1️⃣ Artificial Neural Networks (ANN)
 
 #### a. 🎯 Basics
@@ -141,96 +133,11 @@ This is my personal deep learning learning space where I study core concepts, bu
 
 ---
 
-## 📁 Project Structure
 
-```
-Deep Learning/
-├── 📂 assets/
-│   └── 🖼️  deep-learning-banner.svg
-├── 📂 notebooks/
-│   ├── 01-ann-basics.ipynb
-│   ├── 02-cnn-introduction.ipynb
-│   ├── 03-rnn-fundamentals.ipynb
-│   └── ...
-├── 📂 data/
-│   └── (datasets for projects)
-├── 📂 src/
-│   ├── models/
-│   ├── utils/
-│   └── preprocessing/
-├── 📋 requirements.txt
-├── 📖 README.md
-└── .gitignore
-```
 
----
 
-## 🎯 Goal & Vision
 
-> **Transform complex deep learning concepts into practical knowledge through hands-on experimentation and real-world projects.**
 
-This repository documents my deep learning journey with:
-- ✅ Clear theoretical explanations
-- ✅ Well-commented code examples
-- ✅ Practical experiments with datasets
-- ✅ Complete projects from ideation to deployment
 
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-- Python 3.8 or higher
-- Virtual environment (recommended)
-
-### Setup
-
-```bash
-# Clone or navigate to the repository
-cd "Deep Learning"
-
-# Activate virtual environment
-.venv\Scripts\activate  # Windows
-source .venv/bin/activate  # macOS/Linux
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Start Jupyter
-jupyter notebook
-```
-
----
-
-## 📚 Resources & References
-
-- [TensorFlow Documentation](https://www.tensorflow.org/)
-- [Keras API Reference](https://keras.io/)
-- [Deep Learning Specialization](https://www.deeplearning.ai/)
-- [Distill.pub](https://distill.pub/) - Interactive ML articles
-
----
-
-## 📊 Progress Tracking
-
-| Topic | Status | Completion |
-|-------|--------|------------|
-| ANN Basics | 🔄 In Progress | 60% |
-| CNN | ⏳ Not Started | 0% |
-| RNN | ⏳ Not Started | 0% |
-| GANs | ⏳ Not Started | 0% |
-| Deployment | ⏳ Not Started | 0% |
-
----
-
-<div align="center">
-
-### 💡 Feel free to suggest improvements or share resources!
-
-**[⭐ Star this repo](https://github.com) if you find it helpful**
-
-Made with ❤️ for learning deep learning
-
-</div>
 
 
