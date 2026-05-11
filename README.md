@@ -18,37 +18,29 @@ This is my personal deep learning learning space where I study core concepts, bu
 
 ### 1️⃣ Artificial Neural Networks (ANN)
 
-#### a. 🎯 Basics
-- What is Deep Learning
-- Deep Learning vs Machine Learning
-- Why deep learning is getting famous now?
-- Deep Learning Application
-- Deep Learning Types
-- History of Deep Learning
-
-#### b. 🧩 Perceptron
+#### a. 🧩 Perceptron
 - What is a Perceptron
 - Perceptron vs Neuron
 - Prediction in a Perceptron
 - Training in a Perceptron
 - Problem with the Perceptron
 
-#### c. 🔗 MLP (Multi-Layer Perceptron)
+#### b. 🔗 MLP (Multi-Layer Perceptron)
 - Intuition of MLP
 - MLP Notation
 - Prediction in MLP
 
-#### d. ⚙️ Training an MLP
+#### c. ⚙️ Training an MLP
 - Gradient Descent
 - Backpropagation
 
-#### e. 🛠️ Practical Implementation with Keras
+#### d. 🛠️ Practical Implementation with Keras
 - CPU vs GPU
 - Installation & Setup
 - Regression using Keras
 - Classification using Keras
 
-#### f. 📈 How to Improve an ANN
+#### e. 📈 How to Improve an ANN
 - Vanishing Gradients
 - Exploding Gradients
 - Dropouts
@@ -59,7 +51,7 @@ This is my personal deep learning learning space where I study core concepts, bu
 - Batch Normalization
 - Hyperparameter Tuning
 
-#### g. 🚀 Advanced Topics
+#### f. 🚀 Advanced Topics
 - Callbacks
 - TensorBoard
 - Pretrained Models
@@ -67,7 +59,7 @@ This is my personal deep learning learning space where I study core concepts, bu
 - Saving and Loading Models
 - Building a Streamlit Application
 
-#### h. 🏆 Project
+#### g. 🏆 Project
 - End-to-End Project
 - AWS Deployment
 
