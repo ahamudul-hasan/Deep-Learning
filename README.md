@@ -4,6 +4,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Keras](https://img.shields.io/badge/Keras-2.x-red?style=flat-square&logo=keras&logoColor=white)](https://keras.io/)
+![Jupyter](https://img.shields.io/badge/Jupyter-Interactive-F37726?logo=jupyter)
 
 **A hands-on learning journey through Deep Learning** 🚀
 
