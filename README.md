@@ -7,8 +7,6 @@
 
 **A hands-on learning journey through Deep Learning** 🚀
 
-From neural networks fundamentals to cutting-edge architectures
-
 </div>
 
 ---
