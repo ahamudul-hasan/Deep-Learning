@@ -1,11 +1,10 @@
 /.venv/
 venv/
-# Python
+
 __pycache__/
 *.py[cod]
 
-# Jupyter
 .ipynb_checkpoints/
 
-# Virtual environment
+
 .venv/
