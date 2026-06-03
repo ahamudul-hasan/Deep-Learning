@@ -43,6 +43,7 @@ This is my personal deep learning learning space where I study core concepts, bu
 #### e. 📈 How to Improve an ANN
 - Vanishing Gradients
 - Early Stopping
+- Feature Scaling
 - Exploding Gradients
 - Dropouts
 - Regularization
