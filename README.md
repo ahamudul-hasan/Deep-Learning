@@ -52,14 +52,6 @@ This is my personal deep learning learning space where I study core concepts, bu
 - Batch Normalization
 - Hyperparameter Tuning
 
-#### f. 🚀 Advanced Topics
-- Callbacks
-- TensorBoard
-- Pretrained Models
-- Keras Functional API
-- Saving and Loading Models
-- Building a Streamlit Application
-
 
 ### 2️⃣ Convolutional Neural Networks (CNN)
 
