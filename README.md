@@ -30,15 +30,14 @@ This is my personal deep learning learning space where I study core concepts, bu
 - MLP Notation
 - Prediction in MLP
 
-#### c. ⚙️ Training an MLP
-- Gradient Descent
-- Backpropagation
+#### c. 🏆 Project
+- Handwritten Digit Classification
+- Graduate Admission Prediction
 
-#### d. 🛠️ Practical Implementation with Keras
-- CPU vs GPU
-- Installation & Setup
-- Regression using Keras
-- Classification using Keras
+#### d. ⚙️ Training an MLP
+- Regression
+- Classification
+- Gradient Descent
 
 #### e. 📈 How to Improve an ANN
 - Vanishing Gradients
@@ -61,9 +60,6 @@ This is my personal deep learning learning space where I study core concepts, bu
 - Saving and Loading Models
 - Building a Streamlit Application
 
-#### g. 🏆 Project
-- End-to-End Project
-- AWS Deployment
 
 ### 2️⃣ Convolutional Neural Networks (CNN)
 
