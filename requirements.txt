@@ -6,8 +6,8 @@ scikit-learn
 jupyter
 ipykernel
 mlxtend
-# Native Windows GPU setup for TensorFlow 2.10.1.
-# Use Python 3.10 or lower with CUDA 11.2 and cuDNN 8.1.
 numpy<2
-tensorflow==2.10.1
-keras==2.10.0
+# WSL2 / Ubuntu GPU setup for TensorFlow 2.21.0.
+# Install with: python3 -m pip install 'tensorflow[and-cuda]==2.21.0'
+tensorflow[and-cuda]==2.21.0
+keras>=3.0.0,<4
