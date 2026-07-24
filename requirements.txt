@@ -7,7 +7,4 @@ jupyter
 ipykernel
 mlxtend
 numpy<2
-# WSL2 / Ubuntu GPU setup for TensorFlow 2.21.0.
-# Install with: python3 -m pip install 'tensorflow[and-cuda]==2.21.0'
-tensorflow[and-cuda]==2.21.0
 keras>=3.0.0,<4
