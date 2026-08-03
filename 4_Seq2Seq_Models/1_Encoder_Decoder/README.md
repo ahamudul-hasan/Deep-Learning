@@ -25,9 +25,7 @@ Mathematically:
 
 $$
 P(y_1, y_2, \ldots, y_{T'} \mid x_1, x_2, \ldots, x_T)
-=
-prod_{t=1}^{T'}
-P(y_t \mid v, y_1, y_2, \ldots, y_{t-1})
+= prod_{t=1}^{T'} P(y_t \mid v, y_1, y_2, \ldots, y_{t-1})
 $$
 
 where `v` is the fixed-size encoder output vector, and each conditional is a softmax over the vocabulary.
