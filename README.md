@@ -71,6 +71,14 @@ This is my personal deep learning learning space where I study core concepts, bu
 - RNN, LSTM, and GRU architectures
 - Attention mechanisms
 
+### 3️⃣ Seq2Seq Models
+
+- Encoder Decoder
+- Attention Mechanism
+- Bahdanau Attention and Luong Attention
+- Transformer
+- Transfer Learning
+- LLM
 
 ## 🛠️ Tech Stack
 
