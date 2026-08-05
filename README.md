@@ -71,25 +71,6 @@ This is my personal deep learning learning space where I study core concepts, bu
 - RNN, LSTM, and GRU architectures
 - Attention mechanisms
 
-### 4️⃣ Autoencoders & Generative Adversarial Networks (GAN)
-
-![Generative Models](https://img.shields.io/badge/Autoencoders%20%26%20GAN-Generative%20Models-red?style=for-the-badge)
-
-- Autoencoders & reconstruction
-- Variational Autoencoders (VAE)
-- Generative Adversarial Networks
-- Applications in data generation
-
-### 5️⃣ Object Detection & Image Segmentation
-
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Detection%20%26%20Segmentation-green?style=for-the-badge)
-
-- Object detection concepts
-- Bounding boxes & localization
-- YOLO, R-CNN architectures
-- Semantic & instance segmentation
-
----
 
 ## 🛠️ Tech Stack
 
